@@ -1,4 +1,4 @@
-# James-Hernandez---AI---Portfolio
+# james-hernandez-ai-portfolio
 Portfolio of analytical writing and evaluation samples demonstrating skills in detail-oriented observation, clear communication, and pattern recognition for AI data annotation/training roles.
 Detail-oriented data specialist transitioning to AI data annotation, evaluation, and training roles.
 
