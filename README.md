@@ -18,4 +18,4 @@ Detailed breakdown of legendary wrestling announcer Gordon Solie's vocal deliver
 - Objective evaluation of communication effectiveness
 
 This sample highlights skills directly applicable to evaluating AI-generated text for nuance, coherence, tone consistency, and guideline adherence in RLHF/annotation tasks.
-**File**: [View full Gordon Solie Analysis (PObyJames.txt)](PObyJames.txt)
+**File**: [Gordon Solie Commentary Analysis](Gordon-Solie-Analysis.md)
